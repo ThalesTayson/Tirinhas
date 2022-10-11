@@ -6,7 +6,7 @@ function MyPage(props){
     return(
         <>  
             <div>
-                <img src={page} />
+                <img src={page} alt="desc"/>
             </div>
         </>
     )
